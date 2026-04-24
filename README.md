@@ -114,6 +114,7 @@ pip install -r requirements.txt
 
 ### 3. Chạy chương trình
 python main.py
+```
 📁 Cấu trúc thư mục
 InFiCheck/
 │
@@ -129,7 +130,7 @@ InFiCheck/
 ├── main.py
 ├── requirements.txt
 └── README.md
-
+```
 ---
 
 📈 Kết quả đạt được
