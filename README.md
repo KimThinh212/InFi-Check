@@ -108,10 +108,11 @@ Dataset sử dụng trong đề tài bao gồm các văn bản đã được gá
 ```bash
 git clone <repository_link>
 cd InFiCheck
+```
 ### 2. Cài đặt thư viện
 pip install -r requirements.txt
 
-###3. Chạy chương trình
+### 3. Chạy chương trình
 python main.py
 📁 Cấu trúc thư mục
 InFiCheck/
